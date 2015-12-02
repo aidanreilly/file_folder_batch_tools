@@ -4,7 +4,9 @@ truealarm_addressable_detector_bases
 flame_detector_analog_zam
 4b_5b_mx_base
 4bi_5bi_mx_isolator_base
+vesda-interface
 4b_c_mx_continuity_base
+communication_devices
 802sb_901sb_mx_base
 zone_modules_detection_cards
 8_zone_module_motherboard
