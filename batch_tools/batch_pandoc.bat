@@ -1,0 +1,1 @@
+for %%F in (*.html) do pandoc %%F -f html -t markdown -s -o %%F.md

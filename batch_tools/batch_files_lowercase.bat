@@ -1,0 +1,3 @@
+:: this works directly at the command line, but not in a bat...
+
+for /f "Tokens=*" %f in ('dir /l/b/a-d') do (rename "%f" "%f")

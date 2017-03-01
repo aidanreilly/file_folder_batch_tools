@@ -1,0 +1,1 @@
+TortoiseProc.exe /command:commit /path:"C:\SVN\TC" /logmsg:"Commiting work via the command line" /closeonend:3 /closeforlocal
